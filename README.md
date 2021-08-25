@@ -1,2 +1,2 @@
 # python-FDGH-completion
-This repo has pics to show completion of NDD prereqs
+This repo contains pics showing completion of NDD prereqs
